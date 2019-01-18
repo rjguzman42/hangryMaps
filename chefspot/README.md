@@ -6,7 +6,7 @@
 
 -> All data is stored locally, which creates a seamless persistent state.
 
-You can interact with the official app by downloading the Hangry Maps here -> http://appstore.com/hangryMaps
+-> You can interact with the official app by downloading the Hangry Maps here -> http://appstore.com/hangryMaps
 
 # Usage 
 ### -> IN ORDER FOR THIS APP TO WORK, YOU MUST CREATE A GOOGLE PLACES API KEY AND INSERT IT IN THE CONSTANTS FILE (LINE 135). HERE IS HOW TO DO SO -> 
