@@ -1,0 +1,6 @@
+framework module Pods_hangryMaps_hangryMapsTests {
+  umbrella header "Pods-hangryMaps-hangryMapsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
