@@ -6,6 +6,7 @@
 
 -> All data is stored locally, which creates a seamless persistent state.
 
-### -> IN ORDER FOR THIS APP TO WORK, YOU MUST CREATE A GOOGLE PLACES API KEY AND INSERT IT IN THE CONSTANTS FILE (LINE 135)
+### -> IN ORDER FOR THIS APP TO WORK, YOU MUST CREATE A GOOGLE PLACES API KEY AND INSERT IT IN THE CONSTANTS FILE (LINE 135). HERE IS HOW TO DO SO -> 
+https://developers.google.com/places/web-service/get-api-key
 
 ## -> Enjoy! :)
