@@ -8,8 +8,12 @@
 
 -> You can interact with the official app by downloading the Hangry Maps here -> http://appstore.com/hangryMaps
 
+
 # Usage 
-### -> IN ORDER FOR THIS APP TO WORK, YOU MUST CREATE A GOOGLE PLACES API KEY AND INSERT IT IN THE CONSTANTS FILE (LINE 135). HERE IS HOW TO DO SO -> 
+
+### In order for this app to work, you must create a Google Places API key and insert it in the "Constants" file (line 135). Here is how to create the api key...
+
 https://developers.google.com/places/web-service/get-api-key
+
 
 # Enjoy! :)
